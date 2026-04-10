@@ -1,2 +1,2 @@
 # feedbak1
-welcome teaching and learning feedback portal
+welcome to teaching and learning feedback portal
